@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "brand": "Apple",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549.00,
+      "thumbnail": "path_to_image_iphone_9.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "brand": "Apple",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with...",
+      "price": 899.00,
+      "thumbnail": "path_to_image_iphone_x.jpg",
+      "quantity": 1
+    }
+  ]
+  

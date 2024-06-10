@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.cart {
+  width: 80%;
+  margin: auto;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+}
+
+.controls button {
+  margin: 0 5px;
+}
+
+.total {
+  text-align: right;
+  margin-top: 20px;
+}
